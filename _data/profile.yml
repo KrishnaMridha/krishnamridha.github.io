@@ -35,24 +35,20 @@ short_bio: >-
     <li><span style="color:#7d3c98; font-weight:bold;">LLMs for Clinical Text</span> 
     — foundation models for structured clinical report understanding and information extraction</li>
   </ul>
-  <p>
-    Before joining Case Western, I completed my undergraduate research at Marwadi University, India, 
-    where I published 9 journal papers and 16 conference papers as first author and received 
-    four <strong>IEEE Best Paper Awards</strong> for work on explainable AI for medical imaging.
-  </p>
+
 
 portrait_url: /assets/images/photos/profile.png
 
 education:
 - name: Case Western Reserve University
-  logo: /assets/images/badges/univeristy.png
   position: >-
     Department of Biomedical and Health Informatics <br/>
     PhD Candidate
   date: Aug. 2022 - present
 - name: Marwadi University
   position: B.Tech in Computer Engineering
-  date: 2018 - 2022
+  date: 2019 - 2023
+  
 
 awards:
 - name: IEEE Best Paper Award (4x)
