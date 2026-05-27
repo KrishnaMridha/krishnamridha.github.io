@@ -5,7 +5,7 @@ navbar_name: "Krishna Mridha"
 positions:
 - name: PhD Candidate, Biomedical and Health Informatics
 - name: Case Western Reserve University
-  logo: assets/images/badges/univeristy.png
+
 
 email: "kxm828@case.edu"
 gscholar: https://scholar.google.com/citations?user=_Yulp8gAAAAJ&hl=en
@@ -17,20 +17,31 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a PhD candidate in Biomedical and Health Informatics at 
-    <a href="https://case.edu/medicine/pqhs/node/3296" target="_blank">Case Western Reserve University</a> 
-    and a Research Fellow at the  <a href="https://my.clevelandclinic.org" target="_blank">Lerner Research Institute, Cleveland Clinic.</a>  
+    <a href="https://case.edu" target="_blank">Case Western Reserve University</a> 
+    and a Research Fellow at the 
+    <a href="https://www.lerner.ccf.org" target="_blank">Lerner Research Institute, Cleveland Clinic</a>. 
     My research sits at the intersection of deep learning, medical image analysis, 
     and clinical decision support, with a focus on developing explainable and 
     uncertainty-aware AI systems for cardiovascular and clinical applications.
   </p>
+  <p>My broader research interests include:</p>
+  <ul>
+    <li><span style="color:#c0392b; font-weight:bold;">Explainable AI for Medical Imaging</span> 
+    — interpretable deep learning systems for cardiovascular and clinical imaging modalities</li>
+    <li><span style="color:#1a5276; font-weight:bold;">Multimodal Learning</span> 
+    — integrating imaging, clinical records, and structured EHR data for longitudinal disease monitoring</li>
+    <li><span style="color:#1e8449; font-weight:bold;">Uncertainty Quantification</span> 
+    — conformal prediction and Bayesian methods for clinically trustworthy AI outputs</li>
+    <li><span style="color:#7d3c98; font-weight:bold;">LLMs for Clinical Text</span> 
+    — foundation models for structured clinical report understanding and information extraction</li>
+  </ul>
   <p>
-    My research interests include explainable AI for medical imaging, multimodal 
-    learning integrating imaging and EHR data, uncertainty quantification using 
-    conformal prediction and Bayesian methods, and large language models for 
-    clinical text understanding.
+    Before joining Case Western, I completed my undergraduate research at Marwadi University, India, 
+    where I published 9 journal papers and 16 conference papers as first author and received 
+    four <strong>IEEE Best Paper Awards</strong> for work on explainable AI for medical imaging.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/profile.png
 
 education:
 - name: Case Western Reserve University
