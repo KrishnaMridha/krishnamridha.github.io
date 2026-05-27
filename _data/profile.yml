@@ -5,12 +5,12 @@ navbar_name: "Krishna Mridha"
 positions:
 - name: PhD Candidate, Biomedical and Health Informatics
 - name: Case Western Reserve University
-  logo: /assets/images/badges/university.png
+  logo: assets/images/badges/univeristy.png
 
 email: "kxm828@case.edu"
 gscholar: https://scholar.google.com/citations?user=_Yulp8gAAAAJ&hl=en
 # twitter: your_twitter_id
-linkedin: https://www.linkedin.com/in/krishna-mridha/
+linkedin: krishna-mridha/
 orcid: 0000-0002-2238-1516
 
 short_bio_text_justify: false
