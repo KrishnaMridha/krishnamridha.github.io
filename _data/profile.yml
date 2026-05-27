@@ -1,18 +1,74 @@
+# primary_name: "Krishna Mridha"
+# secondary_name: ""
+# navbar_name: "Krishna Mridha"
+
+# positions:
+# - name: PhD Candidate, Biomedical and Health Informatics
+# - name: Case Western Reserve University
+
+
+# email: "kxm828@case.edu"
+# gscholar: https://scholar.google.com/citations?user=_Yulp8gAAAAJ&hl=en
+# # twitter: your_twitter_id
+# linkedin: krishna-mridha/
+# orcid: 0000-0002-2238-1516
+
+# short_bio_text_justify: false
+# short_bio: >-
+#   <p>
+#     I am a PhD candidate in Biomedical and Health Informatics at 
+#     <a href="https://case.edu" target="_blank">Case Western Reserve University</a> 
+#     and a Research Fellow at the 
+#     <a href="https://www.lerner.ccf.org" target="_blank">Lerner Research Institute, Cleveland Clinic</a>. 
+#     My research sits at the intersection of deep learning, medical image analysis, 
+#     and clinical decision support, with a focus on developing explainable and 
+#     uncertainty-aware AI systems for cardiovascular and clinical applications.
+#   </p>
+#   <p>My broader research interests include:</p>
+#   <ul>
+#     <li><span style="color:#c0392b; font-weight:bold;">Explainable AI for Medical Imaging</span> 
+#     — interpretable deep learning systems for cardiovascular and clinical imaging modalities</li>
+#     <li><span style="color:#1a5276; font-weight:bold;">Multimodal Learning</span> 
+#     — integrating imaging, clinical records, and structured EHR data for longitudinal disease monitoring</li>
+#     <li><span style="color:#1e8449; font-weight:bold;">Uncertainty Quantification</span> 
+#     — conformal prediction and Bayesian methods for clinically trustworthy AI outputs</li>
+#     <li><span style="color:#7d3c98; font-weight:bold;">LLMs for Clinical Text</span> 
+#     — foundation models for structured clinical report understanding and information extraction</li>
+#   </ul>
+
+
+# portrait_url: /assets/images/photos/profile.png
+
+# education:
+# - name: Case Western Reserve University
+#   position: >-
+#     Department of Biomedical and Health Informatics <br/>
+#     PhD Candidate
+#   date: Aug. 2022 - present
+# - name: Marwadi University
+#   position: B.Tech in Computer Engineering
+#   date: 2019 - 2023
+
+
+  
+
+# awards:
+# - name: IEEE Best Paper Award (4x)
+#   date: 2021 - 2022
+# - name: Research Fellow, Lerner Research Institute, Cleveland Clinic
+#   date: 2023
+
+
 primary_name: "Krishna Mridha"
 secondary_name: ""
 navbar_name: "Krishna Mridha"
-
 positions:
 - name: PhD Candidate, Biomedical and Health Informatics
 - name: Case Western Reserve University
-
-
 email: "kxm828@case.edu"
-gscholar: https://scholar.google.com/citations?user=_Yulp8gAAAAJ&hl=en
-# twitter: your_twitter_id
-linkedin: krishna-mridha/
+gscholar: _Yulp8gAAAAJ
+linkedin: krishna-mridha
 orcid: 0000-0002-2238-1516
-
 short_bio_text_justify: false
 short_bio: >-
   <p>
@@ -35,33 +91,21 @@ short_bio: >-
     <li><span style="color:#7d3c98; font-weight:bold;">LLMs for Clinical Text</span> 
     — foundation models for structured clinical report understanding and information extraction</li>
   </ul>
-
-
+  <p>
+    Before joining Case Western, I completed my undergraduate research at Marwadi University, India, 
+    where I published 9 journal papers and 16 conference papers as first author and received 
+    four <strong>IEEE Best Paper Awards</strong> for work on explainable AI for medical imaging.
+  </p>
 portrait_url: /assets/images/photos/profile.png
-
-# education:
-# - name: Case Western Reserve University
-#   position: >-
-#     Department of Biomedical and Health Informatics <br/>
-#     PhD Candidate
-#   date: Aug. 2022 - present
-# - name: Marwadi University
-#   position: B.Tech in Computer Engineering
-#   date: 2019 - 2023
-
 education:
-- name: Massachusetts Institute of Technology
-  # logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-  
-
+- name: Case Western Reserve University
+  position: >-
+    Department of Biomedical and Health Informatics <br/>
+    PhD Candidate
+  date: Aug. 2022 - present
+- name: Marwadi University
+  position: B.Tech in Computer Engineering
+  date: 2019 - 2023
 awards:
 - name: IEEE Best Paper Award (4x)
   date: 2021 - 2022
