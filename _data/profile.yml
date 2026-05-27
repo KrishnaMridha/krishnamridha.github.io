@@ -39,15 +39,27 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/profile.png
 
+# education:
+# - name: Case Western Reserve University
+#   position: >-
+#     Department of Biomedical and Health Informatics <br/>
+#     PhD Candidate
+#   date: Aug. 2022 - present
+# - name: Marwadi University
+#   position: B.Tech in Computer Engineering
+#   date: 2019 - 2023
+
 education:
-- name: Case Western Reserve University
-  position: >-
-    Department of Biomedical and Health Informatics <br/>
-    PhD Candidate
-  date: Aug. 2022 - present
-- name: Marwadi University
-  position: B.Tech in Computer Engineering
-  date: 2019 - 2023
+- name: Massachusetts Institute of Technology
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
+    Ph.D. Student
+  date: Sep. 2024 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Computer Science
+  date: Sep. 2019 - Jul. 2021
   
 
 awards:
