@@ -14,5 +14,5 @@ authors:
   - Segni Worku Guta
   - Wolde Assefa Debele
 links:
-  Paper: [https://ieeexplore.ieee.org/abstract/document/10107401/](https://ieeexplore.ieee.org/document/10560233)
+  Paper: https://ieeexplore.ieee.org/document/10560233
 ---
