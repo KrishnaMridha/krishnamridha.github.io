@@ -11,4 +11,6 @@ authors:
   - Suborno Deb Bappon
   - Shahriar Mahmud Sabuj
   - Tasnim Sarker
+links:
+  Paper: https://link.springer.com/chapter/10.1007/978-981-99-8661-3_48
 ---
