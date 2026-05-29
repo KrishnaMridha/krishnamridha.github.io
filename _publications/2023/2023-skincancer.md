@@ -14,5 +14,4 @@ authors:
   - MF Mridha
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10107401/
-semantic_scholar_id: 68069ee082dce4895e2042e5a8c69a035eabb90e
 ---
