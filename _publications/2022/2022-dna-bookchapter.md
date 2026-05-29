@@ -1,6 +1,6 @@
 ---
 title:          "Machine Learning in Bioinformatics: New Technique for DNA Sequencing Classification"
-date:           2022-01-01 00:01:00 +0800
+date:           2022-02-01 00:01:00 +0800
 selected:       false
 pub:            "IEEE IAS Global Conference on Emerging Technologies — Springer Book Chapter"
 pub_date:       "2022"
