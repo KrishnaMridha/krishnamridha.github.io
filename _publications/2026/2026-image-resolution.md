@@ -1,13 +1,16 @@
+
 ---
-title:          "Image Resolution Controls Calibration and Reliability in Deep Learning for Medical Image Classification"
-date:           2026-01-02 00:01:00 +0800
+title:          "Cross-Attention Enables Context-Aware Multimodal Skin Lesion Diagnosis"
+date:           2026-01-01 00:01:00 +0800
 selected:       true
-pub:            "Computers in Biology and Medicine"
+pub:            "AMIA 2026 Annual Symposium"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Under Review</span>'
 pub_date:       "2026"
 abstract: >-
-  Investigates how image resolution affects calibration and reliability of deep learning models for medical image classification tasks.
+  Proposes a cross-attention mechanism for context-aware multimodal skin lesion diagnosis integrating dermoscopic images with clinical metadata.
 authors:
   - Krishna Mridha
-  - Madhu Shukla
+  - Humayera Islam
+links:
+  Paper: https://www.medrxiv.org/content/10.64898/2026.03.10.26348046v1
 ---
