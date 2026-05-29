@@ -14,4 +14,6 @@ authors:
   - Sandesh Ghimire
   - Anmol Aran
   - Aashish Prashad Pandey
+Links:
+  Paper: https://link.springer.com/chapter/10.1007/978-3-031-36402-0_27
 ---
