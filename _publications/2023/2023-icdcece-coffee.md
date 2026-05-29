@@ -1,6 +1,6 @@
 ---
 title:          "Explainable Deep Learning for Coffee Leaf Disease Classification in Smart Agriculture: A Visual Approach"
-date:           2023-01-01 00:01:00 +0800
+date:           2023-02-01 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE 2023)"
 pub_date:       "2023"
@@ -12,4 +12,6 @@ authors:
   - Ibrahim Khalil
   - Sheikh Md. Jamiul Jakir
   - Pieboji Noubissie Wilfried
+links:
+  Paper: https://ieeexplore.ieee.org/document/10151399
 ---
