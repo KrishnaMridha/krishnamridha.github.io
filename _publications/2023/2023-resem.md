@@ -12,4 +12,6 @@ authors:
   - Ajoy Chandra Kuri
   - Apu Chandra Barman
   - Dharmdevsinh Jadeja
+Links:
+  Paper: https://ieeexplore.ieee.org/document/10236402
 ---
