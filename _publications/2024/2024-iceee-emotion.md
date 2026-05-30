@@ -14,4 +14,5 @@ authors:
   - Madhu Shukla
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-99-8289-9_47
+cover: /assets/images/covers/emotion_best.png
 ---
