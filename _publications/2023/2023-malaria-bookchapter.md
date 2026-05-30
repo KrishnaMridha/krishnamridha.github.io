@@ -17,4 +17,5 @@ authors:
 
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-3-031-36402-0_27
+cover: /assets/images/covers/malaria.png
 ---
