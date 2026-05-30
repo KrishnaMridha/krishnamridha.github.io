@@ -14,4 +14,5 @@ authors:
   - MF Mridha
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10107401/
+cover: /assets/images/covers/skin_cancer.png
 ---
