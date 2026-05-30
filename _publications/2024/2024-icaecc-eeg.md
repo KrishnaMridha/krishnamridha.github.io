@@ -15,4 +15,5 @@ authors:
   - Wolde Assefa Debele
 links:
   Paper: https://ieeexplore.ieee.org/document/10560233
+cover: /assets/images/covers/eeg_icase.png  
 ---
