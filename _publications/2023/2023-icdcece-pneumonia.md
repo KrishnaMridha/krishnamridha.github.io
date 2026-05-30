@@ -15,5 +15,5 @@ authors:
   - M. A. Priyok
 links:
   Paper: https://ieeexplore.ieee.org/document/10151074
-cover: /assets/images/covers/covid_best.png
+cover: /assets/images/covers/malaria.png
 ---
