@@ -14,4 +14,5 @@ authors:
   - Dipayan Barua
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10009311
+cover: /assets/images/covers/lung_colon.png
 ---
