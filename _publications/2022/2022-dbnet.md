@@ -14,5 +14,6 @@ authors:
   - MD Minhazul Alam Chowdhury
   - MD Iftekhar Islam
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/9965051
+  Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9964937
+cover: /assets/images/covers/dbnet.png
 ---
