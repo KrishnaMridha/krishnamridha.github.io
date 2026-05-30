@@ -12,4 +12,5 @@ authors:
   - Lijun Zhang
 links:
   Paper: https://easychair.org/publications/paper/G1Ff/open
+cover: /assets/images/covers/bicob.png
 ---
