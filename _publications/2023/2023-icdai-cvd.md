@@ -15,4 +15,5 @@ authors:
   - Biswaranjan Acharya
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-99-3878-0_35
+cover: /assets/images/covers/cvd_2023.png
 ---
