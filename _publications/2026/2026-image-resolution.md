@@ -10,4 +10,5 @@ abstract: >-
 authors:
   - Krishna Mridha
   - Madhu Shukla
+cover: /assets/images/covers/medical_imaging_multimodal_resolution_diagram.png
 ---
