@@ -15,4 +15,5 @@ authors:
   - MF Mridha
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10130159/
+cover: /assets/images/covers/stroke.png
 ---
