@@ -13,4 +13,5 @@ authors:
   - Madhu Shukla
 links:
   Paper: https://doi.org/10.1016/j.compbiomed.2025.111221
+cover: /assets/images/covers/smartheart.png
 ---
