@@ -14,4 +14,5 @@ authors:
   - Pieboji Noubissie Wilfried
 links:
   Paper: https://ieeexplore.ieee.org/document/10151399
+cover: /assets/images/covers/leaf.png
 ---
