@@ -16,4 +16,5 @@ authors:
   - Rayhan Hussain Razu
 links:
   Paper: https://link.springer.com/article/10.1007/s42979-025-04409-z
+cover: /assets/images/covers/heartdisease.png
 ---
