@@ -15,4 +15,5 @@ authors:
 
 links:
   Paper:  https://ieeexplore.ieee.org/document/10236402
+cover: /assets/images/covers/drowsy.png
 ---
