@@ -13,4 +13,5 @@ authors:
   - Shahriar Mahmud Sabuj
 links:
   Paper: https://ieeexplore.ieee.org/document/10391674/
+cover: /assets/images/covers/IQ_CCE.png
 ---
