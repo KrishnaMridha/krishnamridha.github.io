@@ -13,4 +13,5 @@ authors:
   - Tasnim Sarker
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-99-8661-3_48
+cover: /assets/images/covers/durg.png
 ---
