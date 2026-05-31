@@ -11,4 +11,5 @@ authors:
   - Sourav Simanta
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-19-2980-9_26
+cover: /assets/images/covers/diabetes.png
 ---
