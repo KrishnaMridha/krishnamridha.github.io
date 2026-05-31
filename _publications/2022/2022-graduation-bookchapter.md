@@ -12,5 +12,6 @@ authors:
   - Bikash Shah
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-19-1677-9_55
+cover: /assets/images/covers/graduation.png
 
 ---
