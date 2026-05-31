@@ -13,4 +13,5 @@ authors:
   - P. Damodharan
 links:
      Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9666304
+cover: /assets/images/covers/covid_xray.png
 ---
