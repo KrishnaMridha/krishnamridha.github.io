@@ -12,4 +12,5 @@ authors:
   - Milan Limbu
 links:
   Paper: https://doi.org/10.58260/j.iet.2202.0104
+cover: assets/images/covers/Unet.png
 ---
