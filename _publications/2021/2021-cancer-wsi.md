@@ -13,4 +13,5 @@ authors:
   - Dhara Joshi
 links:
   Paper: https://ieeexplore.ieee.org/document/9666302
+cover: /assets/images/covers/wsi.png
 ---
