@@ -11,4 +11,5 @@ authors:
   - Shah Md. Abul Hasan
 links:
     Paper: https://ieeexplore.ieee.org/document/9730581/
+cover: /assets/images/covers/agriculture.png
 ---
