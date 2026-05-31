@@ -12,4 +12,5 @@ authors:
   - Dinesh Kumar
 links:
    Paper: https://ieeexplore.ieee.org/document/9666346/
+cover: /assets/images/covers/MFCC.png
 ---
