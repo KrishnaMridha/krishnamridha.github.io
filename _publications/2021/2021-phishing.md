@@ -13,4 +13,5 @@ authors:
   - Rabindra Nath Shaw
 links:
    Paper: https://ieeexplore.ieee.org/document/9573797/
+cover: /assets/images/covers/phising.png
 ---
