@@ -15,4 +15,5 @@ authors:
   - Ajay Vikram Singh
 links:
   Paper: https://ieeexplore.ieee.org/document/9964942
+cover: /assets/images/covers/credit.png
 ---
