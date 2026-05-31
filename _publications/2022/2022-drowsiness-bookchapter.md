@@ -12,4 +12,5 @@ authors:
   - Dinesh Kumar
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-16-7498-3_5
+cover: /assets/images/covers/drawsy.png
 ---
