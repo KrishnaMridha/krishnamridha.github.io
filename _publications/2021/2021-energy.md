@@ -13,4 +13,5 @@ authors:
   - Amit Ved
 links:
     Paper: https://ieeexplore.ieee.org/document/9544812/
+cover: /assets/images/covers/medium_shrot.png
 ---
