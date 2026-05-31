@@ -12,4 +12,5 @@ authors:
   - Krishna Mridha
 links:
   Paper: https://ieeexplore.ieee.org/document/9964624
+cover: /assets/images/covers/short_term.png
 ---
