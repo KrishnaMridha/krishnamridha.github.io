@@ -13,4 +13,5 @@ authors:
   - Mahrishi Jani
 links:
   Paper: https://ieeexplore.ieee.org/document/9404739/
+cover: /assets/images/covers/EEG.png
 ---
