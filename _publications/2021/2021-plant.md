@@ -11,5 +11,6 @@ authors:
   - Akshay Ranpariya
   - Smit Kumbhani
 links:
-  Paper: https://ieeexplore.ieee.org/document/9666219
+  Paper: https://ieeexplore.ieee.org/document/9666354
+cover: /assets/images/covers/plant.png
 ---
