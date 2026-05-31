@@ -12,4 +12,5 @@ authors:
   - Madhu Shukla
 links:
   Paper: https://ieeexplore.ieee.org/document/9730646
+cover: /assets/images/covers/face_mask.png
 ---
