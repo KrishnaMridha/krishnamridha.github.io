@@ -11,4 +11,5 @@ authors:
   - Nabhan Tawjih Yousef
 links:
   Paper: https://ieeexplore.ieee.org/document/9509614
+cover: /assets/images/covers/attendance.png
 ---
