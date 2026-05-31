@@ -10,4 +10,5 @@ authors:
   - Krishna Mridha
 links:
   Paper: https://ieeexplore.ieee.org/document/9509614
+cover: /assets/images/covers/breast.png
 ---
