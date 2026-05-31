@@ -10,5 +10,6 @@ authors:
   - Fatema Begum, Krishna Mridha
 links:
   Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9965051
+cover: /assets/images/covers/sarc_covd.png
 
 ---
