@@ -11,4 +11,5 @@ authors:
   - Shakil Sarker
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-981-19-2980-9_27
+cover: /assets/images/covers/bioinformatics.png
 ---
