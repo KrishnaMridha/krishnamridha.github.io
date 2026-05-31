@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-light fixed-top mb-5 shadow-sm">
+<!-- <nav class="navbar navbar-expand-sm navbar-light fixed-top mb-5 shadow-sm">
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
         <a class="navbar-brand"><strong>{{site.data.profile.navbar_name}}</strong></a>
         <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,4 +15,97 @@
             </ul>
         </div>
     </div>
+</nav> -->
+
+
+
+<nav class="navbar navbar-expand-sm navbar-light fixed-top mb-5 shadow-sm" id="main-navbar">
+    <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
+        <a class="navbar-brand"><strong>{{site.data.profile.navbar_name}}</strong></a>
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-map"></i> Menu
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                {% for item in site.data.navigation.pages %}
+                <li class="nav-item {% if item.name == page.navbar_title or include.active_page == item.name %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+                <li class="nav-item">
+                    <button id="dark-mode-toggle" onclick="toggleDarkMode()" 
+                        style="border: none; background: none; cursor: pointer; font-size: 1.1rem; padding: 0.5rem 0.75rem;"
+                        title="Toggle dark mode">
+                        <i class="fas fa-moon" id="dark-mode-icon"></i>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
+<style>
+body.dark-mode {
+    background-color: #1a1a2e !important;
+    color: #e0e0e0 !important;
+}
+body.dark-mode .card,
+body.dark-mode .bg-white {
+    background-color: #16213e !important;
+    color: #e0e0e0 !important;
+}
+body.dark-mode #main-navbar {
+    background-color: #16213e !important;
+}
+body.dark-mode .text-muted {
+    color: #a0a0a0 !important;
+}
+body.dark-mode a {
+    color: #7eb8f7 !important;
+}
+body.dark-mode .border-gray {
+    border-color: #333 !important;
+}
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+    color: #e0e0e0 !important;
+}
+body.dark-mode .navbar-light .navbar-brand,
+body.dark-mode .navbar-light .nav-link {
+    color: #e0e0e0 !important;
+}
+body.dark-mode #dark-mode-toggle {
+    color: #e0e0e0 !important;
+}
+</style>
+
+<script>
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+    const icon = document.getElementById('dark-mode-icon');
+    if (document.body.classList.contains('dark-mode')) {
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+        localStorage.setItem('darkMode', 'enabled');
+    } else {
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+        localStorage.setItem('darkMode', 'disabled');
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    if (localStorage.getItem('darkMode') === 'enabled') {
+        document.body.classList.add('dark-mode');
+        const icon = document.getElementById('dark-mode-icon');
+        if (icon) {
+            icon.classList.remove('fa-moon');
+            icon.classList.add('fa-sun');
+        }
+    }
+});
+</script>
