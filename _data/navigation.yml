@@ -7,5 +7,5 @@ pages:
   url: /publications
 - name: CV
   url: /assets/CV_web.pdf
-- name: Talks
-  url: /talks
+# - name: Talks
+#   url: /talks
